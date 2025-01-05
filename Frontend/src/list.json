@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Basics Of C",
+        "title": "Learn the fundamentals of C programming",
+        "price": 0,
+        "category": "Free",
+        "image": "https://cdn.pixabay.com/photo/2014/09/18/22/42/letters-451490_1280.jpg"
+    },    
+    {
+        "id": 2,
+        "name": "Basics Of C++",
+        "title": "Master the basics of C++ programming",
+        "price": 399,
+        "category": "Premium",
+        "image": "https://media.istockphoto.com/id/1149101430/photo/c-text.jpg?s=2048x2048&w=is&k=20&c=dHQE0g--0QqtjItdOAJU-wkTyNmpXcIYenEbTGO1YiQ="
+    },
+    {
+        "id": 3,
+        "name": "Data Structures",
+        "title": "Understand data structures for efficient problem solving",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/1061299140/photo/business-analytics-intelligence-concept-financial-charts-to-analyze-profit-and-finance.jpg?s=1024x1024&w=is&k=20&c=mlm6eLQ__-MQe4ooFecUnlEvnqC_h3buiTtwLQGJnx0="
+    },
+    {
+        "id": 4,
+        "name": "Basics Of SQL",
+        "title": "Learn SQL for database management",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "Object Oriented Programming",
+        "title": "Master object-oriented programming concepts",
+        "price": 99,
+        "category": "Premium",
+        "image": "https://plus.unsplash.com/premium_photo-1675793715030-0584c8ec4a13?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "name": "SDE Sheet For Service Based Companies",
+        "title": "Prepare for SDE roles in service-based companies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VydmljZSUyMGJhc2VkJTIwY29tcGFueXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 7,
+        "name": "Operating System",
+        "title": "Understand operating systems and their core concepts",
+        "price": 299,
+        "category": "Premium",
+        "image": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "name": "Database Management System",
+        "title": "Master database management systems for efficient data handling",
+        "price": 299,
+        "category": "Premium",
+        "image": "https://images.unsplash.com/photo-1667372459510-55b5e2087cd0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRhdGFiYXNlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 9,
+        "name": "Computer Organization and Architecture",
+        "title": "Learn the architecture of computers and how they work",
+        "price": 299,
+        "category": "Premium",
+        "image": "https://images.unsplash.com/photo-1673442981978-f435ca1dc51f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fENvbXB1dGVyJTIwb3JnYW5pemF0aW9ufGVufDB8fDB8fHww"
+    }
+]
